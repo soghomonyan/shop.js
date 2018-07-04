@@ -1,0 +1,33 @@
+// {
+// 	"lang":["arm","eng","rus"]
+// }
+{
+	"123":{
+		"name":"apple",
+		"cost": 250,
+		"description": "hamova",
+		"order":2 ,
+		"img":"images/apple.png" ,
+	},
+		"1234":{
+		"name":"banan",
+		"cost": 250,
+		"description": "hamova",
+		"order":2 ,
+		"img":"images/banana.png" ,
+	},
+		"12345":{
+		"name":"orange" ,
+		"cost": 150,
+		"description":"hamova" ,
+		"order": 2,
+		"img":"images/orange.png" ,
+	},
+		"123456":{
+		"name":"watermelon",
+		"cost": 150,
+		"description":"hamova" ,
+		"order":2 ,
+		"img":"images/watermelon.png" ,
+	},
+}
